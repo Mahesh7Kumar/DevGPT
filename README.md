@@ -2,7 +2,8 @@
 
 An AI-powered web application that assists developers with coding help, debugging, and code suggestions using the power of GPT.
 
-![DevGPT Screenshot](./screenshot.png) <!-- Replace with actual image path or URL -->
+![DevGPT Screenshot](![Screenshot 2025-06-15 110854](https://github.com/user-attachments/assets/8d5c1f69-d990-4a90-93cc-51c30a1cf38b)
+) <!-- Replace with actual image path or URL -->
 
 ## 🌐 Live Demo
 
