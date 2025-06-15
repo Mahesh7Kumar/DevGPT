@@ -1,12 +1,46 @@
-# React + Vite
+# DevGPT 💬🚀
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+An AI-powered web application that assists developers with coding help, debugging, and code suggestions using the power of GPT.
 
-Currently, two official plugins are available:
+![DevGPT Screenshot](./screenshot.png) <!-- Replace with actual image path or URL -->
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🌐 Live Demo
 
-## Expanding the ESLint configuration
+Check out the live version of DevGPT here: [DevGPT Live Website](https://mahesh7kumar.github.io/DevGPT/)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## ✨ Features
+
+- 🔍 Intelligent AI Assistant for code-related queries
+- 💬 Real-time chat interface
+- 🌙 Light/Dark mode support
+- 🎨 Clean and responsive UI
+- 🚀 Powered by OpenAI GPT
+
+---
+
+## 📸 Preview
+
+Here’s a sneak peek of the DevGPT interface:
+
+![Website Preview](./screenshot.png) <!-- Replace this with the correct path or external URL if hosted -->
+
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend:** React
+- **API:** OpenAI GPT (via API)
+- **Hosting:** Netlify
+
+---
+
+## 🧑‍💻 Getting Started
+
+To run locally:
+
+```bash
+git clone https://github.com/Mahesh7Kumar/DevGPT.git
+cd DevGPT
+open index.html
