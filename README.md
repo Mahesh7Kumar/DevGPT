@@ -6,7 +6,7 @@ An AI-powered web application that assists developers with coding help, debuggin
 
 ## 🌐 Live Demo
 
-Check out the live version of DevGPT here: [DevGPT Live Website](https://mahesh7kumar.github.io/DevGPT/)
+Check out the live version of DevGPT here: [DevGPT Live Website](https://developergpt.netlify.app/)
 
 ---
 
